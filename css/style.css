@@ -41,6 +41,7 @@ a:hover {
 	margin-top: 50px;
 }
 
+
 .bg-faded {
     background-color: white;
 }
@@ -54,4 +55,22 @@ a:hover {
 
 .white{
 	color: black;
+}
+
+.golow{
+	height: 5px;
+	margin-top: 50px;
+}
+
+.black{
+	background-color: black;
+}
+
+hr{
+	border: 2px solid black;
+}
+
+
+.space{
+	margin-top: 100px;
 }
