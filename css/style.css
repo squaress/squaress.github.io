@@ -79,3 +79,15 @@ hr{
 	background-color: white;
 	border-color: white;
 }
+
+.textspacebottom {
+	margin-bottom: 50px;
+}
+
+.textspacetop {
+	margin-top: 50px;
+}
+
+.textalign {
+	text-align: center;
+}
