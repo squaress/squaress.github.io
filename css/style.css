@@ -1,0 +1,57 @@
+.profile-pic{
+	max-width: 100%;
+}
+
+a:hover {
+	text-decoration: none;
+}
+.first-progress{
+	background-color: #6f747c;
+}
+
+.second-progress{
+	background-color: #373b42;
+}
+
+.third-progress{
+	background-color: #2a2f38;
+}
+
+.my-navbar{
+	background-color: white;
+}
+
+.my-link{
+	color: black;
+}
+
+.background-image{
+	background-image: url(../img/bars.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 95vh;
+	margin-bottom: 50px;
+}
+
+.heading1{
+	text-align: left;
+}
+
+.prog-card{
+	margin-top: 50px;
+}
+
+.bg-faded {
+    background-color: white;
+}
+.image-size{
+	max-width: 100%;
+}
+
+.cardborder{
+	border-style: none;
+}
+
+.white{
+	color: black;
+}
